@@ -56,8 +56,8 @@ To localize the dataset and correct a few logical inconsistencies in the raw dat
 
 ## Screenshots
 
-<img width="1276" height="715" alt="page1_cover" src="https://github.com/user-attachments/assets/30a9d07b-75c1-4b6a-a42a-a3bc8261c165" />
+<img width="1276" height="715" alt="page1_cover" src="https://github.com/user-attachments/assets/f7c46a5e-05ca-4abe-941d-5106ef7e6925" />
 
-<img width="1268" height="718" alt="page2_performance" src="https://github.com/user-attachments/assets/dab0e834-8ddd-414f-9d15-b58595271223" />
+<img width="1268" height="718" alt="page2_performance" src="https://github.com/user-attachments/assets/a3b71eed-cd57-4019-8b7d-94fbd646d0e3" />
 
-<img width="1270" height="718" alt="page3_usage" src="https://github.com/user-attachments/assets/0100918f-a048-4d9b-b9ef-82bd702a7d77" />
+<img width="1270" height="718" alt="page3_usage" src="https://github.com/user-attachments/assets/db72e1f5-12b4-4800-aa91-397abeaeda67" />
