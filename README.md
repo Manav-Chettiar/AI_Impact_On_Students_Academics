@@ -38,7 +38,7 @@ To localize the dataset and correct a few logical inconsistencies in the raw dat
 1. 6 KPI cards: Total Students, Avg CGPA Change, Avg Weekly Hours, % High Burnout, Avg Skill Retention, Avg Anxiety Level
 2. Bar chart: CGPA change by institutional AI policy
 3. Combo chart: CGPA change vs. exam anxiety, by usage level
-4. Scatter chart: AI usage vs. CGPA change, by major
+4. Scatter chart: AI usage vs. CGPA change, by major of the Students
 
 **Page 3 - Usage Patterns**
 
