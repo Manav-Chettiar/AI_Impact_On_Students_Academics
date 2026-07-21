@@ -24,7 +24,7 @@ To localize the dataset and correct a few logical inconsistencies in the raw dat
 ## Key Insights
 
 1. 87.5% of students improved their CGPA after AI usage; only 12.4% declined.
-2. CGPA gains stay flat (~0.4–0.6) across usage levels, but exam anxiety rises steadily (3.8 → 5.6) — performance gains come with a wellbeing cost.
+2. CGPA gains stay flat (~0.4–0.6) across usage levels, but exam anxiety rises steadily (3.8 to 5.6) — performance gains come with a wellbeing cost.
 3. STEM shows the highest usage and strongest gains; Humanities the lowest on both.
 4. Debugging/Troubleshooting with Advanced skill shows the strongest performance link (0.93 avg CGPA change).
 5. Stricter AI policies correlate with slightly lower performance gains.
