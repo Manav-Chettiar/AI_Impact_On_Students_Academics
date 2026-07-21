@@ -17,7 +17,7 @@ Does higher AI usage improve or hurt student academic performance - and at what 
 
 To localize the dataset and correct a few logical inconsistencies in the raw data, the following transformations were applied in Power Query / DAX before building visuals:
 
-1. GPA - CGPA conversion: Pre_Semester_GPA and Post_Semester_GPA (originally on a US 4.0 scale) were linearly rescaled (× 2.5) to a 10-point Indian CGPA scale, and renamed Starting_CGPA and Current_CGPA.
+1. GPA to CGPA conversion: Pre_Semester_GPA and Post_Semester_GPA (originally on a US 4.0 scale) were linearly rescaled (× 2.5) to a 10-point Indian CGPA scale, and renamed Starting_CGPA and Current_CGPA.
 2. Academic year relabeling: Freshman → First Year, Sophomore → Second Year, Junior → Third Year, Senior → 4th Year (Graduate left unchanged), to match Indian academic year naming conventions.
 3. Starting CGPA interpretation: For First Year students, Starting_CGPA is interpreted as their pre-college (Class 12 / high school) CGPA rather than a prior college semester, since no prior semester exists for incoming students.
 
