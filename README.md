@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores how Generative AI (GenAI) usage affects student academic performance, burnout, and study habits. Built as a two-page interactive Power BI dashboard with a cover page, KPI cards, and a range of different visuals. jhfkfkw
+This project explores how Generative AI (GenAI) usage affects student academic performance, burnout, and study habits. Built as a two-page interactive Power BI dashboard with a cover page, KPI cards, and a range of different visuals.
 
 **The core question the dashboard answers:**
 Does higher AI usage improve or hurt student academic performance - and at what cost to wellbeing?
